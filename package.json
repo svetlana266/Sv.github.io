@@ -13,5 +13,5 @@
 }
 
 { "express": "require",
- "moment" = "require",
+ "moment": "require",
 }
