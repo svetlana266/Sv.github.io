@@ -12,6 +12,3 @@
   "license": "ISC"
 }
 
-{ "express": "require",
- "moment": "require",
-}
